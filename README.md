@@ -4,7 +4,7 @@
 Cristiana Lucaci, Iulia Drăgan, Dragoș Tudosoiu, Raluca Cărare
 
 ## Clients
-Users will be able to connect to the platform via a *web* application or on *mobile*.
+Users will be able to connect to the platform via a *web* app or an *Android* app.
 ## Specifications
 We'll use *Angular* for the frontend part and *Spring Boot* for backend.
 ## Users
